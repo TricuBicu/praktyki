@@ -2,7 +2,7 @@ package Notatki;
 
 public class Not1 {
     public static void main(String[] args) {
-
+    //
         //OPERATORY ARYTMETYCZNE
             // https://www.w3schools.com/java/java_operators.asp
         //TYPY ZMIENNYCH https://www.w3schools.com/java/java_variables.asp
