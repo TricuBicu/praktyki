@@ -1,8 +1,8 @@
-package Notatki;
+package NaPraktykach;
 
 import java.util.Scanner;
 
-public class Zad2 {
+public class LiczenieDelty {
 
     public static double Ldelty(double a, double b, double c){
 

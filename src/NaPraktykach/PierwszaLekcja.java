@@ -1,6 +1,6 @@
-package Notatki;
+package NaPraktykach;
 
-public class Not1 {
+public class PierwszaLekcja {
     public static void main(String[] args) {
     //
         //OPERATORY ARYTMETYCZNE

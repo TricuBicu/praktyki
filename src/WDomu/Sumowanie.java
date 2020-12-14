@@ -1,6 +1,6 @@
-package Zadanka;
+package WDomu;
 
-public class Zad2 {
+public class Sumowanie {
     //Sumowanie liczb
     public static void main(String[] args) {
     System.out.println("Sumowanie Liczb");

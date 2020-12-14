@@ -1,6 +1,6 @@
-package Zadanka;
+package WDomu;
 
-public class Zad1 {
+public class Parzyste {
 
     public static void main(String[] args) {
         //Wypisz liczby parzyste w przedziale od 1 do 10

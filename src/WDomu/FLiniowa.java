@@ -1,9 +1,9 @@
-package Zadanka;
+package WDomu;
 
 
 import java.util.Scanner;
 
-public class Zad5 {
+public class FLiniowa {
 
     public static void funkcja(double a, double b){
         if (a <= 0){

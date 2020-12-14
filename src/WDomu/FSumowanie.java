@@ -1,6 +1,6 @@
-package Zadanka;
+package WDomu;
 
-public class Zad3 {
+public class FSumowanie {
     //Funkcja sumowania liczb
     public static int Sumowanie(int[] tablica) {
 

@@ -1,6 +1,6 @@
-package Notatki;
+package NaPraktykach;
 
-public class Not2 {
+public class Rekurencje {
 
     public static int rekur(int x){
         if (x > 0){
